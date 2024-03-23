@@ -2,3 +2,15 @@
     background: wheat;
     text-align: center;
 }
+
+.contatiner{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 2px solid coral;
+    margin: 0 auto;
+}
+.contatiner h1{
+    font-size: 20px;
+    color: brown;
+}
